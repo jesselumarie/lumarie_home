@@ -1,1 +1,1 @@
-A way to find our home
+A custom search engine for our FOREVER HOME
